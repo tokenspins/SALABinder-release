@@ -1,3 +1,10 @@
+[13.03.2026]
+- Keybinder mit neuer SAMP UDF kompiliert und ist damit R5 kompatibel (danke an Clarence_Callahan)
+- neue LoG Standorte eingebaut (danke an Luke und aviate)
+- Businessbelieferungen werden nun korrekt gezaehlt
+- Fraktionserkennung bei den Freundeslisten angepasst
+- nicht mehr benoetigten Code entfernt
+
 [19.09.2021 18:30]
 
 - Reupload vom Keybinder + Anpassung Auto Updater
