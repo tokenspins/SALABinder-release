@@ -1,7 +1,7 @@
 [07.06.2026]
 - /feuer gefixt
 - /cc in /cchat umbenannt
-- Keybinder Icoon ieder eingefuegt
+- Keybinder Icoon wieder eingefuegt
 
 [13.03.2026]
 - Keybinder mit neuer SAMP UDF kompiliert und ist damit R5 kompatibel (danke an Clarence_Callahan)
