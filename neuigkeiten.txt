@@ -1,4 +1,4 @@
-[07.06.2026
+[07.06.2026]
 - /feuer gefixt
 - /cc in /cchat umbenannt
 - Keybinder Icoon ieder eingefuegt
